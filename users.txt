@@ -1,0 +1,3 @@
+light1;sudo,dev,www-data
+idimma;sudo1
+mayowa;dev1,www-data1
