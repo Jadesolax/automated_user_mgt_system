@@ -8,7 +8,7 @@ Validation: Ensure usernames and group names adhere to specified standards.
 Logging: Maintain detailed logs of all user and group management activities for auditing and troubleshooting.
 
 REQUIREMENTS
-Ubuntu 24.04 LTS
+Linux OS
 Bash Shell
 
 RUNNING SCRIPT
